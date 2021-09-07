@@ -1,0 +1,7 @@
+name: winflake_keras
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - tensorflow=2.3.0
